@@ -22,5 +22,5 @@ https://www.figma.com/file/SZKvZoLGZ8udFyHLFJLFDK/DevLink---Semana-React-JS-(Cop
 
 Aplicação hospedada no Netlify.
 
-https://sujeitosdevlinks.netlify.app/
+https://thelinksmatheus.netlify.app/
 
